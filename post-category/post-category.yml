@@ -1,0 +1,25 @@
+categories:
+  - id: general
+    name: General
+    description: A versatile mix of topics and thoughts that don't fit neatly into other categories. Explore a blend of unique and interesting posts here.
+  - id: ai-ml-genai-llm
+    name: AI/ML/GenAI/LLM
+    description: Dive into the cutting-edge world of Artificial Intelligence, Machine Learning, Generative AI, and Large Language Models. Explore insights and developments shaping the future of technology.
+  - id: devops
+    name: DevOps
+    description: Explore the ever-evolving world of DevOps, covering the latest trends, tools, and practices in software development and IT operations.
+  - id: docker
+    name: Docker
+    description: Explore the world of Docker, from containerization basics to advanced deployment strategies, and discover how it revolutionizes software development.
+  - id: iot
+    name: IoT
+    description: Delve into the Internet of Things, exploring the interconnected world of smart devices and how they're transforming our daily lives.
+  - id: java
+    name: Java
+    description: Explore the world of Java, diving into its robust features, latest updates, and practical applications in modern software development.
+  - id: security
+    name: Security
+    description: Dive into the crucial world of cyber-security, exploring the latest in protection strategies, threat intelligence, and best practices for digital safety.
+  - id: se
+    name: Software Engineering
+    description: Insights and discussions on the art and science of software engineering, from coding practices to architectural design and emerging technologies.
